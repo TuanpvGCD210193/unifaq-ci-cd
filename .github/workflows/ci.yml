@@ -23,7 +23,7 @@ jobs:
 
       - name: Chạy Lint
         working-directory: ./app 
-        run: npm run Lint
+        run: npm run lint
 
       - name: Chạy Test
         working-directory: ./app 
