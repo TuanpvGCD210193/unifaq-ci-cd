@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 18 
 
-      - name: Cài đặt thư viện (npm ci)
+      - name: git add app/package-lock.json
         working-directory: ./app  
         run: npm ci 
 
