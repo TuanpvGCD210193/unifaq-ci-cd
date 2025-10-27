@@ -1,0 +1,4 @@
+[
+  { "id": 1, "question": "Docker là gì?", "answer": "Docker là một nền tảng container hóa." },
+  { "id": 2, "question": "docker-compose.yml dùng để làm gì?", "answer": "Nó dùng để điều phối nhiều container." }
+]
